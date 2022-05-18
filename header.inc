@@ -4,4 +4,5 @@
 </head>
 
 <body>
-<?php
+<h1> This is a common header line </hi>
+<h2> to be used across all my Web pages </h2>

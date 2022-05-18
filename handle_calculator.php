@@ -3,7 +3,7 @@
 <title>Cost Calculator</title>
 </head>
 <body>
-<?php $script handle Calculator
+<?php #script handle Calculator
 if(isset($source)){
     if($source=='calculator.html'){
         if((is_numeric($quantity))){
